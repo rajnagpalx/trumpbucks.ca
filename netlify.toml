@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/order"
+to = "https://9fc11x6-fp8y9oc01h1psbru45.hop.clickbank.net"
+status = 301
+force = true
+
+[[redirects]]
+from = "/index.html"
+to = "/"
+status = 301
+force = true
